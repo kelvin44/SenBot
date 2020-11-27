@@ -27,9 +27,9 @@
   "scripts": {
     "test": "node index"
   },
-  "repository": {
+  "repositori" : {
     "type": "git",
-    "url": "git+https://github.com/ApaJaReal/BotApaJa"
+    "url" : "git + https: //github.com/kelvin44/SenBot
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ApaJaReal/BotApaJa/issues"
+    "url" : "https://github.com/kelvin44/SenBot/issues"
   },
-  "homepage": "https://github.com/ApaJaReal/BotApaJa#readme"
+  "beranda" : "https://github.com/kelvin44/SenBot#readme"
 }
